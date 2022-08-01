@@ -12,7 +12,7 @@ export default function Home() {
         <p>[This is my senior project! Yay!]</p>
         <p>
           (Just wait until it's done, it'll look so good.{' '}
-          <a href="https://www.linkedin.com/in/tsuf-baumflek/">My LinkedIn for fun</a>.)
+          <a href="https://www.bostonusa.com/events/this-weekend/">CLICK HERE for Events in Boston this weekend!</a>)
         </p>
       </section>
     </Layout>
