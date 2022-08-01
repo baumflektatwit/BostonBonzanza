@@ -7,6 +7,7 @@ export default function FirstEvent() {
         <Layout>
             <Head>
                 <title>First Event</title>
+            
             </Head>
             <h1>First Event</h1>
             <h2>
